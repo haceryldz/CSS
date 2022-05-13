@@ -1,0 +1,109 @@
+.logo{
+    width: 75px;
+    height: 75px;
+    margin: 5px;
+}
+
+.header{
+    border: 2px solid darkred; 
+    display: flex;
+    justify-content: flex-start;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+    margin-left: 880px;
+    padding: 5px;
+    font-size: 14px;
+}
+.hy{
+  margin-top: 25px;
+  font-size: 1.5em;
+  color: rgb(12, 12, 82);
+  font-family: Arial, Helvetica, sans-serif;
+  font-style:italic;
+  padding-left: 20px;
+}
+.hakkımda{
+    margin: 5px;
+    border: solid darkgreen 0.5px;
+    padding: 8px;
+    border-radius: 5px;
+}
+.proje{
+    margin: 5px;
+    border: solid darkgreen 0.5px;
+    padding: 8px;
+    border-radius: 5px;
+}
+.satıs{
+    margin: 5px;
+    border: solid darkgreen 0.5px;
+    padding: 8px;
+    border-radius: 5px;
+}
+.genel{
+    display: flex;
+}
+.paper2{
+    width: 450px;
+}
+.acıklama{
+    margin: 35px;
+    border: solid rgb(188, 86, 3) 04px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.sekiller{
+    width: 600px;
+    height: 800px;
+}
+.hy{
+    display: flex;
+
+}
+.tag{
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(103, 13, 115);
+    margin-left: 70px;
+}
+
+.tanisma{
+    display:flex;
+    align-items: center;
+}
+.cizgi{
+    width: 700px;
+    height: 1px;
+    background-color: brown;
+    margin-left: 50px;
+    
+}
+.turn{
+    background-color: rgb(255, 187, 127);
+    margin-left: 20px;
+    padding:8px;
+}
+.turn2{
+    background-color: rgb(255, 187, 127);
+    margin-left: 20px;
+    padding:8px;
+}
+.table{
+    display: flex;
+    justify-content: space-evenly;
+}
+.flower{
+    display:flex ;
+    justify-content: space-evenly;
+}
+.genel{
+    display: flex;
+}
+.p{
+    margin-left: 30px;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
